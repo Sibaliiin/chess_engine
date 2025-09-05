@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1757098639 source:c:\users\istván\desktop\programming\c\chess\main.c
+	<stdio.h>
+	<stdint.h>
+	<ctype.h>
+	"chess_lib.h"
+
+1757062368 c:\users\istván\desktop\programming\c\chess\chess_lib.h
+
+1757069631 source:c:\users\istván\desktop\programming\c\chess\chess_lib.c
+	<stdio.h>
+	<stdint.h>
+	"chess_lib.h"
+
+1757022678 c:\users\istván\desktop\programming\c\chess\chess_lib.c
+	<stdio.h>
+	<stdint.h>
+	"chess_lib.h"
+
